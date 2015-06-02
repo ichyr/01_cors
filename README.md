@@ -1,4 +1,4 @@
-# Learning the cross-origin resource sharing
+# Cross-origin resource sharing
 
 # TODO
 
@@ -7,6 +7,22 @@
 3. discover possibilities to manage CORS
 4. write CORS checker - cli
 5. write CORS checker - UI
+
+# Presentation
+
+1. Same origin policy (SAP)
+  - advantages
+  - drawbacks
+  - usages
+2. JSON-P
+  - advantages
+  - drawbacks
+  - usages
+3. CORS
+  - advantages
+  - drawbacks
+  - usages
+4. Other ways to overcome SAP
 
 # Resources used
 
